@@ -1,2 +1,2 @@
 # SimpleCalculator
-Make a simple clculator using HTML,CSS,JS
+# Make a simple clculator using HTML,CSS,JS
